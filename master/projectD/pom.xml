@@ -9,11 +9,12 @@
   </parent>
   <artifactId>projectD</artifactId>
   <name>projectD</name>
-  <dependencies>
+<!--  <dependencies>
     <dependency>
       <groupId>com.fmi</groupId>
       <artifactId>projectC</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
-  </dependencies> 
+  </dependencies>
+   -->  
 </project>
